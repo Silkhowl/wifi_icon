@@ -4,6 +4,10 @@ ___
 
 ![License GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
+![Language Bash](https://img.shields.io/badge/language-Bash-green)
+
+![Desktop XFCE4](https://img.shields.io/badge/Desktop-XFCE4-orange)
+
 ---
 ## 📡 My WiFi Theme – Icone dinamiche per XFCE
 
