@@ -10,7 +10,7 @@
 INTERFACE="wlan0"
 
 # Percorso della cartella delle icone
-ICON_DIR="$HOME/.local/share/my_wifi_icons"
+ICON_DIR="$HOME/.icons/my_wifi_theme"
 
 # Funzione per ottenere la frequenza (es. "24" per 2.4 GHz, "5" per 5 GHz, "6" per 6 GHz)
 get_frequency() {
@@ -108,7 +108,7 @@ esac
 ## sostituendo XX con uno dei valori: 16 32 64 128
 ##    size=XX
     ICON_NAME="my_wifi_${STD}_${FREQ}_${LEVEL}_${size}.png"
-    ICON_PATH="$ICON_DIR/$ICON_NAME"
+    ICON_PATH="$ICON_DIR/${size}x${size}/$ICON_NAME"
 
     # Controlla se l'icona specifica esiste, altrimenti usa un'icona di fallback
     if [ ! -f "$ICON_PATH" ]; then

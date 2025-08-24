@@ -39,6 +39,8 @@ echo "📂 Copio gli script in ~/my_wifi_scripts/"
 mkdir -p "$HOME/my_wifi_scripts"
 cp script/*.sh "$HOME/my_wifi_scripts/"
 chmod +x "$HOME/my_wifi_scripts/"*.sh
+# Crea file di cache a volte richiesto
+exec gtk-update-icon-cache -f -t "$INSTALL_DIR/"
 
 echo "✅ Installazione completata!"
 echo "🔧 Vai in XFCE > Impostazioni > Aspetto > Icone per selezionare '$THEME_NAME'"

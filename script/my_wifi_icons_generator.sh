@@ -99,7 +99,7 @@ for s in "${!sizes[@]}"; do
 
 	for svg in my_wifi_*.svg; do
 	  png="${svg%.svg}_$size.png"
-	  rsvg-convert "$svg" -o "$png" &
+	  rsvg-convert --width=$size --height=$size --keep-aspect-ratio "$svg" -o "$png" &
 	done
 	wait
 done

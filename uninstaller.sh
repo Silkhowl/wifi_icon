@@ -15,10 +15,11 @@ echo "📦 Rimozione del tema icone WiFi: $THEME_NAME"
 if [ -d "$INSTALL_DIR" ]; then
     echo "🟡 Rimuovo $THEME_NAME ..."
     rm -rf "$INSTALL_DIR"
+    rm -rf "$HOME/my_wifi_scripts"
 fi
 
 
 echo "✅ Rimozione completata!"
-echo "🔧 Vai in XFCE > Impostazioni > Aspetto > Icone per selezionare un altro tema"
+echo "🔧 Vai in XFCE > Impostazioni > Aspetto > Icone   e selezionare un tema"
 
 exit 0
