@@ -1,4 +1,10 @@
-Preambolo
+
+                       GNU GENERAL PUBLIC LICENSE
+                       Versione 3, 29 Giugno 2007
+
+
+
+ Preambolo
 
 La GNU General Public License è una licenza libera e basata su copyleft per software e altri tipi di opere.
 
@@ -21,7 +27,7 @@ In conclusione, tutti i programmi sono costantemente minacciati dai brevetti sul
 I termini e le condizioni esatte per la copia, la distribuzione e la modifica del software sono riportate di seguito.
 Termini e Condizioni
 
-    0. Definizioni
+   0. Definizioni
 
 "Questa Licenza" si riferisce alla versione 3 della GNU General Public License. "Copyright" indica anche leggi simili al copyright che riguardano altri tipi di opere, come le maschere per la produzione di semiconduttori. "Il Programma" indica qualunque opera che sia soggetta a copyright e che sia rilasciata sotto questa Licenza. I detentori della licenza sono indicati come "tu" o "voi". Licenziatari e destinatari possono essere individui o organizzazioni. "Modificare" un’opera significa copiare o adattare tutta o parte dell’opera in una maniera che richieda un permesso di copyright, e non indica la semplice azione di fare una esatta copia dell’opera. L’opera risultante viene chiamata "versione modificata" dell’opera precedente, oppure viene detta opera "basata sulla" opera precedente. Un’ "opera coperta da questa licenza" indica il Programma originale non modificato oppure un’opera basata sul Programma. "Propagare" un’opera significa fare qualunque cosa con essa che, in mancanza di un esplicito permesso, ti renda direttamente o indirettamente perseguibile per violazione secondo le vigenti normative sul copyright, ad eccezione della semplice esecuzione del Programma su un computer o della modifica di una copia privata. La Propagazione include la copia, la distribuzione (con o senza modifiche), la messa a disposizione al pubblico e, in alcuni stati, altre attività simili e connesse. "Distribuire" un’opera indica qualunque forma di propagazione che permetta a terze parti di effettuare o ricevere delle copie. La mera interazione con un utente attraverso una rete di computer, senza che ci sia alcun trasferimento di una copia, non è considerata "Distribuzione". Una interfaccia utente interattiva fornisce delle "Adeguate Informazioni Legali" soltanto nel caso in cui include una apposita funzionalità, resa adeguatamente visibile, che (1) visualizzi un’adeguata informazione di copyright, e (2) informi l’utente che non c’è alcuna garanzia sull’opera (eccetto nel caso in cui delle garanzie sono espressamente fornite), dica che il licenziatario può distribuire l’opera utilizzando questa Licenza, indichi come è possibile prendere visione di una copia di questa Licenza. Se l’interfaccia presenta una lista di comandi o di opzioni, come ad esempio un menù, una delle opzioni fornite nella lista deve rispettare questa condizione.
 
