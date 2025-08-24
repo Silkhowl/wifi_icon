@@ -2,9 +2,10 @@
 README.md
 ___
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-# 📡 My WiFi Theme – Icone dinamiche per XFCE
+---
+## 📡 My WiFi Theme – Icone dinamiche per XFCE
 
 Un tema di icone personalizzate per XFCE4 che visualizza lo stato del WiFi in base a:
 - Standard WiFi (WiFi 4, 5, 6, 6E, 7, legacy, sconosciuto)
@@ -46,7 +47,7 @@ cd my_wifi_theme_autoinstall
 bash installer.sh
 
 ---
-Manuale :
+ Manuale :
 
 Copia la cartella `my_wifi_theme_autoinstaller` in `~/.icons/`:
 
