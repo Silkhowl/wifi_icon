@@ -42,26 +42,32 @@ Esempio: `my_wifi_6_5_3_32.png` → WiFi 6, 5 GHz, segnale medio, icona 32×32 p
 ___
  Autoinstallante :
 
+
+```bash
 tar -xzf my_wifi_theme_autoinstall.tar.gz
 cd my_wifi_theme_autoinstall
 bash installer.sh
-
----
- Manuale :
-
-Copia la cartella `my_wifi_theme_autoinstaller` in `~/.icons/`:
-
-```bash
-mv my_wifi_theme_autoinstaller ~/.icons/my_wifi_theme
 ```
----
 
-  Verifica che XFCE la riconosca:
+  Verifica che XFCE lo riconosca:
    - Apri **Impostazioni > Aspetto > Icone**
    - Seleziona “My WiFi Theme”
 
 ---
-## Disinstallazione
+ Manuale :
+
+Copia la cartella `my_wifi_theme` in `~/.icons/`:
+
+```bash
+mv my_wifi_theme ~/.icons/my_wifi_theme
+```
+
+  Verifica che XFCE lo riconosca:
+   - Apri **Impostazioni > Aspetto > Icone**
+   - Seleziona “My WiFi Theme”
+
+---
+## ⚙️ Disinstallazione
 
  Esegui lo script `uninstaller.sh` nella cartella `~/.icons/my_wifi_theme` o dal pacchetto
 
